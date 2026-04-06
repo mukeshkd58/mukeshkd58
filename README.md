@@ -23,7 +23,7 @@ Proven track record of delivering **data-driven insights, forecasting systems, a
   👉 https://mukeshkd58.github.io/
 
 - 💼 **LinkedIn:**  
-  👉 https://www.linkedin.com/in/mukesh-dharani-567284301/
+  👉 https://www.linkedin.com/in/mukesh-kumar-567284301/
 
 - 👨‍💻 **GitHub:**  
   👉 https://github.com/mukeshkd58  
