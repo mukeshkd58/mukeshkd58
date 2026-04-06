@@ -1,33 +1,32 @@
 <!-- 🔷 Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mukeshkd58/mukeshkd58/main/unnamed.png" alt="Data Science Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/mukeshkd58/mukeshkd58/main/unnamed.png" width="100%" />
 </p>
 
-<!-- 🔷 Title -->
 <h1 align="center">Hi 👋, I'm Mukesh Kumar</h1>
-<h3 align="center">Data Analyst | Python Developer | Machine Learning Enthusiast</h3>
+<h3 align="center">Data Analyst | Data Scientist | Machine Learning Engineer</h3>
 
 ---
 
-## 🚀 About Me
-- 💼 Data Analyst with hands-on experience in **end-to-end data projects**
-- 🧠 Skilled in **Machine Learning, Data Analytics & Visualization**
-- 📊 Transforming complex data into **actionable business insights**
-- ⚙️ Building **ML models, dashboards & scalable data solutions**
-- 🌍 Open to opportunities in **Europe, Gulf, Canada, Australia & Remote roles**
+## 🚀 Professional Summary
+Data Analyst and Junior Data Scientist with hands-on experience building **end-to-end data pipelines, machine learning models, and interactive dashboards**.  
+
+Proven track record of delivering **data-driven insights, forecasting systems, and business optimization solutions** across retail and finance domains.  
+
+🎯 Currently pursuing **M.E. at Politecnico di Torino (Italy)** and open to global opportunities.
 
 ---
 
-## 🌐 Portfolio & Contact
+## 🌍 Portfolio & Contact
 
-- 🌍 **Portfolio Website:**  
+- 🌐 **Portfolio:**  
   👉 https://mukeshkd58.github.io/
-
-- 👨‍💻 **GitHub:**  
-  👉 https://github.com/mukeshkd58  
 
 - 💼 **LinkedIn:**  
   👉 https://www.linkedin.com/in/mukesh-dharani-567284301/
+
+- 👨‍💻 **GitHub:**  
+  👉 https://github.com/mukeshkd58  
 
 - 📊 **Kaggle:**  
   👉 https://kaggle.com/mukeshkumardh  
@@ -37,43 +36,26 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 👨‍💻 Languages & Libraries
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,cpp" />
-</p>
+### 👨‍💻 Programming & Data Tools
+- Python (Pandas, NumPy, Scikit-learn, XGBoost)  
+- SQL, Excel (Pivot Tables, Power Query)  
 
-- Python, SQL  
-- Pandas, NumPy, Scikit-learn  
-- Matplotlib, Seaborn, Plotly  
+### 📊 Data Analysis & Visualization
+- EDA, Feature Engineering, Data Wrangling  
+- Power BI, Tableau (Basic), Matplotlib, Seaborn, Plotly  
+- Dashboarding & KPI Reporting  
 
----
-
-### 📊 Data Analytics
-- Exploratory Data Analysis (EDA)  
-- Data Cleaning & Wrangling  
-- Hypothesis Testing  
-- Regression, Classification, Clustering  
-
----
+### 🤖 Machine Learning
+- Regression, Classification, Clustering (KNN, K-Means, DBSCAN)  
+- Random Forest, XGBoost, GridSearchCV  
+- Time Series Forecasting (Prophet)  
+- Model Deployment (Streamlit, Flask)  
 
 ### ⚙️ Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman" />
-</p>
-
-- Power BI, Streamlit, FastAPI  
-- MySQL, PostgreSQL  
-- Jupyter Notebook  
-
----
-
-## 📌 Featured Projects
-- 📈 **Retail Demand Forecasting** → Time-series forecasting & business insights  
-- 🏥 **Healthcare Premium Prediction** → ML model for insurance pricing  
-- 📊 **Interactive Dashboards** → Power BI & Streamlit apps  
-- 🤖 **Machine Learning Pipelines** → End-to-end model deployment  
+- MySQL, GitHub, Jupyter Notebook, VS Code  
+- FastAPI, ETL Pipelines, Streamlit  
 
 ---
 
@@ -93,8 +75,22 @@
 
 ---
 
+## 🎓 Education
+- 🇮🇹 M.E. Georesource & Geoenergy — Politecnico di Torino (2025–Present)  
+- 🇵🇰 B.E. Mining Engineering — Mehran University  
+
+---
+
+## 📜 Certifications
+- Google Advanced Data Analytics (2024)  
+- Google Data Analytics (2024)  
+- IBM Data Science Professional Certificate (2024)  
+- Python for Data Professionals — Codebasics (2025)  
+
+---
+
 ## ⚡ Fun Fact
-> I look at the world the way engineers analyze data — always curious, always exploring patterns.
+> I approach real-world problems the way engineers approach systems — structured, analytical, and always optimizing.
 
 ---
 
