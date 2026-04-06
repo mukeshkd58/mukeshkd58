@@ -1,72 +1,90 @@
-<!-- Banner Image -->
+<!-- 🔷 Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/mukeshkd58/mukeshkd58/main/unnamed.png" alt="Data Science Banner" width="100%" />
 </p>
 
+<!-- 🔷 Title -->
 <h1 align="center">Hi 👋, I'm Mukesh Kumar</h1>
-<h3 align="center">Data Analyst | Python Developer | Aspiring Data Scientist</h3>
+<h3 align="center">Data Analyst | Python Developer | Machine Learning Enthusiast</h3>
 
 ---
 
-### 🚀 About Me
-- 💼 Data Analyst with hands-on experience in **Machine Learning, Data Analytics & Dashboarding**
-- 🧠 Passionate about solving real-world problems using **data-driven approaches**
-- 📊 Skilled in building **end-to-end data projects** (EDA → Modeling → Visualization → Deployment)
-- 🌍 Open to opportunities in **Europe, Gulf, Australia, Canada & Remote roles**
+## 🚀 About Me
+- 💼 Data Analyst with hands-on experience in **end-to-end data projects**
+- 🧠 Skilled in **Machine Learning, Data Analytics & Visualization**
+- 📊 Transforming complex data into **actionable business insights**
+- ⚙️ Building **ML models, dashboards & scalable data solutions**
+- 🌍 Open to opportunities in **Europe, Gulf, Canada, Australia & Remote roles**
 
 ---
 
-### 🔗 Portfolio & Contact
-- 👨‍💻 GitHub:  
-  👉 https://github.com/mukeshkd58
+## 🌐 Portfolio & Contact
 
-- 📫 Email:  
-  👉 mukeshkumardharani58@gmail.com  
+- 🌍 **Portfolio Website:**  
+  👉 https://mukeshkd58.github.io/
 
-- 💼 LinkedIn:  
+- 👨‍💻 **GitHub:**  
+  👉 https://github.com/mukeshkd58  
+
+- 💼 **LinkedIn:**  
   👉 https://www.linkedin.com/in/mukesh-dharani-567284301/
 
-- 📊 Kaggle:  
-  👉 https://kaggle.com/mukeshkumardh
+- 📊 **Kaggle:**  
+  👉 https://kaggle.com/mukeshkumardh  
+
+- 📫 **Email:**  
+  👉 mukeshkumardharani58@gmail.com  
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-#### 👨‍💻 Languages & Libraries
+### 👨‍💻 Languages & Libraries
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,cpp" />
+</p>
+
 - Python, SQL  
 - Pandas, NumPy, Scikit-learn  
 - Matplotlib, Seaborn, Plotly  
 
-#### 📊 Data Analytics
+---
+
+### 📊 Data Analytics
 - Exploratory Data Analysis (EDA)  
 - Data Cleaning & Wrangling  
 - Hypothesis Testing  
 - Regression, Classification, Clustering  
 
-#### ⚙️ Tools & Platforms
+---
+
+### ⚙️ Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman" />
+</p>
+
 - Power BI, Streamlit, FastAPI  
 - MySQL, PostgreSQL  
-- Git & GitHub, Jupyter Notebook  
+- Jupyter Notebook  
 
 ---
 
-### 📌 Featured Projects
-- 📈 **Retail Demand Forecasting**
-- 🏥 **Healthcare Premium Prediction**
-- 📊 **Interactive Data Dashboards**
-- 🤖 **Machine Learning Pipelines**
+## 📌 Featured Projects
+- 📈 **Retail Demand Forecasting** → Time-series forecasting & business insights  
+- 🏥 **Healthcare Premium Prediction** → ML model for insurance pricing  
+- 📊 **Interactive Dashboards** → Power BI & Streamlit apps  
+- 🤖 **Machine Learning Pipelines** → End-to-end model deployment  
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukeshkd58&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mukeshkd58&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshkd58&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=mukeshkd58&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -75,7 +93,12 @@
 
 ---
 
-### ⚡ Fun Fact
-> I look at the world the way engineers look at data — always exploring patterns, always curious.
+## ⚡ Fun Fact
+> I look at the world the way engineers analyze data — always curious, always exploring patterns.
 
 ---
+
+## 👀 Profile Views
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mukeshkd58&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
